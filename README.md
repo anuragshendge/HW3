@@ -13,13 +13,13 @@ former ports
 
 
 ### Part 1
-**/set** and **/get** routes are set and navigating to set will set the message **"this message will self-destruct in 10 seconds"** for 10 seconds and then expire. It can be accessed at /get.
+>**/set** and **/get** routes are set and navigating to set will set the message **"this message will self-destruct in 10 seconds"** for 10 seconds and then expire. It can be accessed at /get.
 
 ### Part 2
-Visting **/recent** will display the 5 most recently visited sites.
+>Visting **/recent** will display the 5 most recently visited sites.
 
 ### Part 3
-**/upload** is a POST request used to upload images to the redis server. **/meow** lets us access those images once!
+>**/upload** is a POST request used to upload images to the redis server. **/meow** lets us access those images once!
  
 
 
