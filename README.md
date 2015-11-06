@@ -29,8 +29,7 @@ former ports
 > The workings of the proxy server is demonstrated in the screencast as per guidelines
 
 
-###Screencast for the post-commit hook invocation
-
+###Screencast
 >####Kindly click the image below for the screencast [you will be redirected to YouTube]
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/DTUtBRoHGsg/0.jpg)](https://www.youtube.com/watch?v=DTUtBRoHGsg)
 
