@@ -20,6 +20,19 @@ former ports
 
 ### Part 3
 >**/upload** is a POST request used to upload images to the redis server. **/meow** lets us access those images once!
+
+### Part 4
+> Addtional instance of the server runs on the port # 3001 and is demosntrated in the screencast as such.
+
+### Part 5
+> The workings of the proxy server is demonstrated in the screencast as per guidelines
+
+
+###Screencast for the post-commit hook invocation
+
+>####Kindly click the image below for the screencast [you will be redirected to YouTube]
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/DTUtBRoHGsg/0.jpg)](https://www.youtube.com/watch?v=DTUtBRoHGsg)
+
  
 
 
